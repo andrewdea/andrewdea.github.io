@@ -1,0 +1,4 @@
+baseURL = "https://andrewdea.github.io"
+languageCode = "en-us"
+title = "Andrew's website"
+theme = "enchanted-lowkey"
