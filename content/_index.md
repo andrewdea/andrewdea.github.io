@@ -1,6 +1,7 @@
 ---
 title: "Hello"
 draft: false
+baseURL: "https://andrewdea.github.io/"
 ---
 Here's some things I've done:
  

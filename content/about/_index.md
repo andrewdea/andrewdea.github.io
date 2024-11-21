@@ -1,6 +1,7 @@
 ---
 title: "Bio"
 draft: false
+baseURL: "https://andrewdea.github.io/"
 ---
 
 Currently, I'm a software developer at [IBM Research](https://research.ibm.com/), working on AI for code and LLM evaluation.
