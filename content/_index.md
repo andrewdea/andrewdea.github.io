@@ -15,9 +15,9 @@ I've contributed to:
  - [complexipy](https://github.com/rohaquinlop/complexipy): a library to compute the cognitive complexity of Python code
  - [Codellm Devkit](https://github.com/codellm-devkit) a program-analysis framework for LLM-assisted software development
 
-#### Organizing
- - I'm a proud member of the [Crown Heights Tenant Union](https://www.crownheightstenantunion.org/), organizing for a better future with neighbors in my community and beyond.
- - I co-founded the [Sanctuary Jam](https://bit.ly/sanctuary-jam-info), an open jam session in Crown Heights, where all community members can learn from each other, create, and build relationships.
+<!-- #### Organizing -->
+<!--  - I'm a proud member of the [Crown Heights Tenant Union](https://www.crownheightstenantunion.org/), organizing for a better future with neighbors in my community and beyond. -->
+<!--  - I co-founded the [Sanctuary Jam](https://bit.ly/sanctuary-jam-info), an open jam session in Crown Heights, where all community members can learn from each other, create, and build relationships. -->
 
 #### Music
  - [Scores](https://musescore.com/user/37109046)
